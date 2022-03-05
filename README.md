@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, eu sou a Victória 👋
 
-<!--
-**vmc13/vmc13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estou em estudo Full Stack
+- 😄 Pronouns: ela/dela
+- ⚡ Sempre com fome de aprendizado
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">
+  <a href = "https://github.com/vmc13">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmc13&show_icons=true&theme=radical&include_a11_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmc13&layout=compact&theme=radical"/>
+</div>
