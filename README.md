@@ -1,8 +1,8 @@
 ### Olá, eu sou a Victória 👋
 
 - 🌱 Estou em estudo Full Stack
-- 😄 Pronouns: ela/dela
-- ⚡ Sempre com fome de aprendizado
+- 😄 Pronouns: She/Her
+- ⚡ Conhecimento é liberdade e poder.
 
 <br>
 
