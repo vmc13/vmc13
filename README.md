@@ -1,6 +1,6 @@
 ### Olá, eu sou a Victória 👋
 
-- 💻 Estou em estudo Full Stack
+- 💻 Em estudo Full Stack
 - 📚 Conhecimento é liberdade e poder.
 
 <div align="center">
