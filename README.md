@@ -1,7 +1,7 @@
 ### Hi there, I'm Victória
 
-- 💻 Em estudo Full Stack
-- 📚 Conhecimento é liberdade e poder.
+- 💻 I'm in full stack study
+- 📚 Knowledge is freedom and power!
 
 <div align="center">
   <a href="https://github.com/vmc13">
