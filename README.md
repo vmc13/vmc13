@@ -1,4 +1,4 @@
-### Hi there, I'm Victória
+### Hi there, I'm Victória!
 
 - 💻 I'm in full stack study
 - 📚 Knowledge is freedom and power!
