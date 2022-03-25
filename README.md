@@ -1,4 +1,4 @@
-### Olá, me chamo Victória 👋
+### Hi there, I'm Victória
 
 - 💻 Em estudo Full Stack
 - 📚 Conhecimento é liberdade e poder.
