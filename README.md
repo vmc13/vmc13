@@ -1,6 +1,5 @@
 ### Hi there, I'm Victória!
 
-- 💻 I'm in fullstack study
 - 📚 Knowledge is freedom and power!
 
 <div align="center">
