@@ -23,7 +23,7 @@
     <img width="50" src="https://firebaseopensource.com/logo-small.png" alt="logo firebase"/>
 </p>
   
-   ## Total de visitas no meu perfil :detective: <br>
+   ## Total visits to my profile :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/vmc13/count.svg" />
  </p>
