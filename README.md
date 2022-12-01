@@ -2,6 +2,7 @@
 
 - 📚 Knowledge is freedom and power!
 - 🚀 Focused on django and flutter.
+- 🌐 Mobile developer in Flutter at the technological innovation laboratory - Grunalabs
 <div align="center">
   <a href="https://github.com/vmc13">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vmc13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
