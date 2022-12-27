@@ -1,7 +1,7 @@
 ## Hi there! I'm Victória! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 - 🌐 Mobile and frontend developer at the *Grunalabs* technology innovation laboratory.
-- 🚀 Focused on django and flutter.
+- 🚀 Focused on Flutter and C#.
 - 📚 Knowledge is freedom and power!
 <div align="center">
   <a href="https://github.com/vmc13">
