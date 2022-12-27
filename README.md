@@ -22,6 +22,8 @@
     <img width="50" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" alt="logo dart"/>
     <img width="50" src="https://play-lh.googleusercontent.com/eki1dtAr9RJ0yCIr21NdUkeUNzJCDv2roDIC57Byqt-dnVv-lqRkHTlGI0xtaD_SVfE=s256-rw" alt="logo flutter"/>
     <img width="50" src="https://firebaseopensource.com/logo-small.png" alt="logo firebase"/>
+    <img width="50" src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" alt="logo csharp"/>
+    <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="logo donet_core"/>
 </p>
   
    ## Total visits to my profile :detective: <br>
