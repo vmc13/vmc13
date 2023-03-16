@@ -27,7 +27,7 @@ class Victoria {
     'databases': ['PostgreSQL', 'Firebase', 'MySQL'],
     'tools': ['Git', 'Github', 'Docker', 'Trello']
   };
-  List current_learning = ["C#", ".NET", "NodeJS", "React"];
+  List current_learning = ["C#", ".NET", "NodeJS", "Swift"];
 
   String catchphrase = "Knowledge is freedom and power!";
 }
