@@ -25,7 +25,7 @@ class Victoria {
     'backend': 'Django',
     'mobile': 'Flutter',
     'databases': ['PostgreSQL', 'Firebase', 'MySQL'],
-    'tools': ['Git', 'Github', 'Docker', 'Trello']
+    'tools': ['Git', 'Github', 'Bitbucket', 'Docker', 'Trello', 'Jira']
   };
   List current_learning = ["C#", ".NET", "NodeJS", "Swift"];
 
