@@ -20,14 +20,14 @@
  ```dart
 class Victoria {
   String pronouns = "she/her";
-  List languages = ['Python', 'Dart', 'Javascript', 'HTML', 'CSS'];
+  List languages = ['Python', 'Dart', 'Swift', 'Javascript', 'HTML', 'CSS'];
   Map technologies = {
     'backend': 'Django',
-    'mobile': 'Flutter',
+    'mobile': 'Flutter', 'SwiftUI'
     'databases': ['PostgreSQL', 'Firebase', 'MySQL'],
     'tools': ['Git', 'Github', 'Bitbucket', 'Docker', 'Trello', 'Jira']
   };
-  List current_learning = ["C#", ".NET", "NodeJS", "Swift"];
+  List current_learning = ["C#", ".NET", "NodeJS"];
 
   String catchphrase = "Knowledge is freedom and power!";
 }
