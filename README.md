@@ -1,7 +1,12 @@
 <h1 align="center">Hi there! I'm Victória! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <p align="center">
-  I'm a curious pupil about the area of systems development. I am always looking for new experiences and learning.
+  I’m a curious pupil about the area of systems development. I am always looking for new experiences and learning.
+
+I’m a mobile app developer with a focus on Flutter.
+Currently, I’m diving deeper into the world of UI/UX design, where I’ve been working professionally and developing my skills to craft better user experiences.
+
+I’m also a future licensed Computer Science teacher, passionate about sharing knowledge and learning even more through this pedagogical journey.
 </p>
 <p align="center"> 
   When I'm not coding you'll find me drawing something
@@ -20,16 +25,21 @@
  ```dart
 class Victoria {
   String pronouns = "she/her";
-  List languages = ['Python', 'Dart', 'Swift', 'Javascript', 'HTML', 'CSS'];
+  List languages = ['Python', 'Dart', 'Swift'];
   Map technologies = {
+    'mobile': 'Flutter',
     'backend': 'Django',
-    'mobile': 'Flutter', 'SwiftUI'
-    'databases': ['PostgreSQL', 'Firebase', 'MySQL'],
-    'tools': ['Git', 'Github', 'Bitbucket', 'Docker', 'Trello', 'Jira']
+    'design': 'UI/UX',
+    'databases': ['PostgreSQL', 'Firebase'],
+    'tools': ['Figma', 'Git', 'Github', 'Bitbucket'],
+    'project_management': ['Huly', 'Trello', 'Jira'],
+    'methodologies': ['Scrum', 'Kanban'],
+    'api': ['REST'],
+    'state_management': ['Provider'],
   };
-  List current_learning = ["C#", ".NET", "NodeJS"];
-
-  String catchphrase = "Knowledge is freedom and power!";
+  List current_learning = ["Java", "Spring Boot", "Mobile UI/UX Design", "Sales"];
+  String role = "Mobile Developer & UI/UX Designer";
+  String catchphrase = "Knowledge is freedom";
 }
 ```
 
