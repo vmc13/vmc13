@@ -3,7 +3,7 @@
 <p align="center">
   I’m a curious pupil about the area of systems development. I am always looking for new experiences and learning.
 
-I’m a mobile app developer with a focus on Flutter.
+  I’m a mobile app developer with a focus on Flutter.
 Currently, I’m diving deeper into the world of UI/UX design, where I’ve been working professionally and developing my skills to craft better user experiences.
 
 I’m also a future licensed Computer Science teacher, passionate about sharing knowledge and learning even more through this pedagogical journey.
@@ -25,17 +25,19 @@ I’m also a future licensed Computer Science teacher, passionate about sharing 
  ```dart
 class Victoria {
   String pronouns = "she/her";
-  List languages = ['Python', 'Dart', 'Swift'];
+  List languages = ['Python', 'Dart', 'Swift', 'C#'];
   Map technologies = {
     'mobile': 'Flutter',
-    'backend': 'Django',
-    'design': 'UI/UX',
-    'databases': ['PostgreSQL', 'Firebase'],
+    'frontend': ['Next.Js', 'Blazor', 'Tailwind', 'React'],
+    'backend': ['Django', 'Flask',  'Firebase Functions'],
+    'design': [‘Prototyping’, ‘UI/UX, ‘IxD’, ‘Graphic’],
+    'databases': ['PostgreSQL', 'Firebase Firestore'],
     'tools': ['Figma', 'Git', 'Github', 'Bitbucket'],
     'project_management': ['Huly', 'Trello', 'Jira'],
-    'methodologies': ['Scrum', 'Kanban'],
-    'api': ['REST'],
-    'state_management': ['Provider'],
+    'methodologies': ['Scrum', 'Kanban', 'Design Thinking', 'User-Centered Design'],
+    'api': ['REST', 'Supabase', 'Firebase Auth'],
+    'firebase': ['Firestore', 'Auth', 'Storage', 'Functions'],
+    'publication': ['Google Play Console']
   };
   List current_learning = ["Java", "Spring Boot", "Mobile UI/UX Design", "Sales"];
   String role = "Mobile Developer & UI/UX Designer";
