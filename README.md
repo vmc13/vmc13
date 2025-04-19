@@ -24,25 +24,21 @@ I’m also a future licensed Computer Science teacher, passionate about sharing 
  
  ```dart
 class Victoria {
-  String pronouns = "she/her";
-  List languages = ['Python', 'Dart', 'Swift', 'C#'];
-  Map technologies = {
-    'mobile': 'Flutter',
-    'frontend': ['Next.Js', 'Blazor', 'Tailwind', 'React'],
-    'backend': ['Django', 'Flask',  'Firebase Functions'],
-    'design': [‘Prototyping’, ‘UI/UX, ‘IxD’, ‘Graphic’],
-    'databases': ['PostgreSQL', 'Firebase Firestore'],
-    'tools': ['Figma', 'Git', 'Github', 'Bitbucket'],
-    'project_management': ['Huly', 'Trello', 'Jira'],
-    'methodologies': ['Scrum', 'Kanban', 'Design Thinking', 'User-Centered Design'],
-    'api': ['REST', 'Supabase', 'Firebase Auth'],
-    'firebase': ['Firestore', 'Auth', 'Storage', 'Functions'],
-    'publication': ['Google Play Console']
-  };
-  List current_learning = ["Java", "Spring Boot", "Mobile UI/UX Design", "Sales"];
   String role = "Mobile Developer & UI/UX Designer";
+  String pronouns = "she/her";
+  List<String> languages = ['Dart', 'Swift', 'Python'];
+  Map<String, dynamic> stack = {
+    'mobile': 'Flutter',
+    'design': ['UI/UX', 'Prototyping', 'IxD'],
+    'tools': ['Figma', 'Git', 'GitHub'],
+    'backend': ['Firebase', 'Supabase'],
+    'api': ['REST'],
+    'databases': ['Firestore'],
+  };
+  List<String> learning = ['Java', 'Spring Boot', 'Mobile UI Design'];
   String catchphrase = "Knowledge is freedom";
 }
+
 ```
 
  <div align="center">
